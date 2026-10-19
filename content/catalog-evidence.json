@@ -1,0 +1,332 @@
+[
+  {
+    "asset_id": "ref-01",
+    "file": "Bilabial_approximant.ogg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bilabial_approximant.ogg",
+    "revision_url": "https://commons.wikimedia.org/w/index.php?title=File:Bilabial_approximant.ogg&oldid=1090307965",
+    "metadata": {
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Bilabial_approximant.ogg",
+      "author": "Peter Isotalo",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "sha256": "1f0a934d3ef0c80e5f77ffef3443179e9940c3ff84e4007acb261b529dd8195a",
+    "manual_author_override": true,
+    "audio_listened": false
+  },
+  {
+    "asset_id": "ref-02",
+    "file": "LL-Q1321_(spa)-Rodelar-beber.wav",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q1321_%28spa%29-Rodelar-beber.wav",
+    "revision_url": "https://commons.wikimedia.org/w/index.php?title=File:LL-Q1321_(spa)-Rodelar-beber.wav&oldid=904400315",
+    "metadata": {
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/LL-Q1321_%28spa%29-Rodelar-beber.wav",
+      "author": "Speaker: Rodelar Recorder: Rodelar",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "sha256": "4dbacdc86def45a82c0101e5b7f5e7efe8e0473ffffd19dcd6e9ae8dd893e019",
+    "manual_author_override": false,
+    "audio_listened": false
+  },
+  {
+    "asset_id": "ref-03",
+    "file": "Voiceless_dental_fricative.ogg",
+    "source": "https://commons.wikimedia.org/wiki/File:Voiceless_dental_fricative.ogg",
+    "revision_url": "https://commons.wikimedia.org/w/index.php?title=File:Voiceless_dental_fricative.ogg&oldid=1090308305",
+    "metadata": {
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Voiceless_dental_fricative.ogg",
+      "author": "Peter Isotalo",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "sha256": "4b26723abc71bf8905e0f5b2414f1abc0233f7edf968a095b04a7320fa119b10",
+    "manual_author_override": true,
+    "audio_listened": false
+  },
+  {
+    "asset_id": "ref-04",
+    "file": "Es-zapato.wav",
+    "source": "https://commons.wikimedia.org/wiki/File:Es-zapato.wav",
+    "revision_url": "https://commons.wikimedia.org/w/index.php?title=File:Es-zapato.wav&oldid=1060546504",
+    "metadata": {
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Es-zapato.wav",
+      "author": "UofG Language Modules",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "sha256": "45cad52465ed04c67e7bcda555841cc7df0bb851f371f90a029559a3bb08e9b5",
+    "manual_author_override": false,
+    "audio_listened": false
+  },
+  {
+    "asset_id": "ref-05",
+    "file": "Palatal_nasal.ogg",
+    "source": "https://commons.wikimedia.org/wiki/File:Palatal_nasal.ogg",
+    "revision_url": "https://commons.wikimedia.org/w/index.php?title=File:Palatal_nasal.ogg&oldid=830399627",
+    "metadata": {
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Palatal_nasal.ogg",
+      "author": "Peter Isotalo",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "sha256": "b92817bc388b9afe043c7d92e2a1a0a911ab602edc363e22c33919000de29f17",
+    "manual_author_override": true,
+    "audio_listened": false
+  },
+  {
+    "asset_id": "ref-06",
+    "file": "LL-Q1321_(spa)-Rodelar-niño.wav",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q1321_%28spa%29-Rodelar-ni%C3%B1o.wav",
+    "revision_url": "https://commons.wikimedia.org/w/index.php?title=File:LL-Q1321_(spa)-Rodelar-ni%C3%B1o.wav&oldid=1187046403",
+    "metadata": {
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/LL-Q1321_%28spa%29-Rodelar-ni%C3%B1o.wav",
+      "author": "Speaker: Rodelar Recorder: Rodelar",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "sha256": "37c5a94196568cc43c58d59a4d3c14a9c4ff99f02f6fe11be5edd29b780e5d74",
+    "manual_author_override": false,
+    "audio_listened": false
+  },
+  {
+    "asset_id": "ref-07",
+    "file": "Voiceless_palato-alveolar_affricate.ogg",
+    "source": "https://commons.wikimedia.org/wiki/File:Voiceless_palato-alveolar_affricate.ogg",
+    "revision_url": "https://commons.wikimedia.org/w/index.php?title=File:Voiceless_palato-alveolar_affricate.ogg&oldid=1279970918",
+    "metadata": {
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Voiceless_palato-alveolar_affricate.ogg",
+      "author": "Peter Isotalo",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "sha256": "eae99c8d335d9bf67fea0859aeb9af6a00cf6c527dee7a9e32b7e39268ec39e5",
+    "manual_author_override": false,
+    "audio_listened": false
+  },
+  {
+    "asset_id": "ref-08",
+    "file": "LL-Q1321_(spa)-Rodelar-noche.wav",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q1321_%28spa%29-Rodelar-noche.wav",
+    "revision_url": "https://commons.wikimedia.org/w/index.php?title=File:LL-Q1321_(spa)-Rodelar-noche.wav&oldid=1138922461",
+    "metadata": {
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/LL-Q1321_%28spa%29-Rodelar-noche.wav",
+      "author": "Speaker: Rodelar Recorder: Rodelar",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "sha256": "75fd507eaef5a9430b8834ae6fb237e1aad710c63ae2a6291ab2c5aa96366292",
+    "manual_author_override": false,
+    "audio_listened": false
+  },
+  {
+    "asset_id": "ref-09",
+    "file": "Voiced_labio-velar_approximant.ogg",
+    "source": "https://commons.wikimedia.org/wiki/File:Voiced_labio-velar_approximant.ogg",
+    "revision_url": "https://commons.wikimedia.org/w/index.php?title=File:Voiced_labio-velar_approximant.ogg&oldid=812645653",
+    "metadata": {
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Voiced_labio-velar_approximant.ogg",
+      "author": "Peter Isotalo",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "sha256": "070046d6e0b65cb956fc104b294c0abff3004333c1fc1012dcca60c7f77f8fc8",
+    "manual_author_override": true,
+    "audio_listened": false
+  },
+  {
+    "asset_id": "ref-10",
+    "file": "LL-Q1321_(spa)-Rodelar-cuatro.wav",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q1321_%28spa%29-Rodelar-cuatro.wav",
+    "revision_url": "https://commons.wikimedia.org/w/index.php?title=File:LL-Q1321_(spa)-Rodelar-cuatro.wav&oldid=939779895",
+    "metadata": {
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/LL-Q1321_%28spa%29-Rodelar-cuatro.wav",
+      "author": "Speaker: Rodelar Recorder: Rodelar",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "sha256": "be81ad3ffa8af1afadd6a9dd5bfb2d6018f706e01a36387a1e4fefb6a82ba503",
+    "manual_author_override": false,
+    "audio_listened": false
+  },
+  {
+    "asset_id": "ref-11",
+    "file": "Alveolar_trill.ogg",
+    "source": "https://commons.wikimedia.org/wiki/File:Alveolar_trill.ogg",
+    "revision_url": "https://commons.wikimedia.org/w/index.php?title=File:Alveolar_trill.ogg&oldid=1090306308",
+    "metadata": {
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Alveolar_trill.ogg",
+      "author": "Peter Isotalo",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "sha256": "e0030489fd63812e6b3b4f493577b94c936ae00d5181d3d93a6c6657f654e30f",
+    "manual_author_override": true,
+    "audio_listened": false
+  },
+  {
+    "asset_id": "ref-12",
+    "file": "LL-Q1321_(spa)-Millars-perro.wav",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q1321_%28spa%29-Millars-perro.wav",
+    "revision_url": "https://commons.wikimedia.org/w/index.php?title=File:LL-Q1321_(spa)-Millars-perro.wav&oldid=904730160",
+    "metadata": {
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/LL-Q1321_%28spa%29-Millars-perro.wav",
+      "author": "Speaker: Millars Recorder: Millars",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "sha256": "ef5750ea15817a5b620d66b8087b6f7046bf3f273c471650f4fa2f586d6aeb23",
+    "manual_author_override": false,
+    "audio_listened": false
+  },
+  {
+    "asset_id": "ref-13",
+    "file": "Palatal_lateral_approximant.ogg",
+    "source": "https://commons.wikimedia.org/wiki/File:Palatal_lateral_approximant.ogg",
+    "revision_url": "https://commons.wikimedia.org/w/index.php?title=File:Palatal_lateral_approximant.ogg&oldid=1090268692",
+    "metadata": {
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Palatal_lateral_approximant.ogg",
+      "author": "Peter Isotalo",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "sha256": "3558dc9cae600586a963e4aed6b11978e7784f491ecb36fa8c36f29c51672023",
+    "manual_author_override": true,
+    "audio_listened": false
+  },
+  {
+    "asset_id": "ref-14",
+    "file": "it-figlio.ogg",
+    "source": "https://commons.wikimedia.org/wiki/File:it-figlio.ogg",
+    "revision_url": "https://commons.wikimedia.org/w/index.php?title=File:It-figlio.ogg&oldid=1006789179",
+    "metadata": {
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/It-figlio.ogg",
+      "author": "Accurimbono",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "sha256": "5f768c31ab69babe22f8407d7cb64da6628e05f8bb37a8bea434adef80e13d4b",
+    "manual_author_override": false,
+    "audio_listened": false
+  },
+  {
+    "asset_id": "ref-15",
+    "file": "LL-Q652_(ita)-Happypheasant-bagno.wav",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q652_%28ita%29-Happypheasant-bagno.wav",
+    "revision_url": "https://commons.wikimedia.org/w/index.php?title=File:LL-Q652_(ita)-Happypheasant-bagno.wav&oldid=1261724578",
+    "metadata": {
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/LL-Q652_%28ita%29-Happypheasant-bagno.wav",
+      "author": "Speaker: Happypheasant Recorder: Happypheasant",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "sha256": "77bf7f79bf422e0679bd6b6585db0c915a98a8d5658673cb8e6c66a66d10c0c0",
+    "manual_author_override": false,
+    "audio_listened": false
+  },
+  {
+    "asset_id": "ref-16",
+    "file": "Voiced_palato-alveolar_affricate.ogg",
+    "source": "https://commons.wikimedia.org/wiki/File:Voiced_palato-alveolar_affricate.ogg",
+    "revision_url": "https://commons.wikimedia.org/w/index.php?title=File:Voiced_palato-alveolar_affricate.ogg&oldid=517230203",
+    "metadata": {
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Voiced_palato-alveolar_affricate.ogg",
+      "author": "Octane (English Wikipedia)",
+      "license": "Public domain (PD-self)",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "sha256": "6db2c6cd8e2337ac98a0420b86a6d993a1c3e82e1b4b2fda80bca9d5dab7ea43",
+    "manual_author_override": false,
+    "audio_listened": false
+  },
+  {
+    "asset_id": "ref-17",
+    "file": "LL-Q652_(ita)-Happypheasant-gelato.wav",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q652_%28ita%29-Happypheasant-gelato.wav",
+    "revision_url": "https://commons.wikimedia.org/w/index.php?title=File:LL-Q652_(ita)-Happypheasant-gelato.wav&oldid=764824170",
+    "metadata": {
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/LL-Q652_%28ita%29-Happypheasant-gelato.wav",
+      "author": "Speaker: Happypheasant Recorder: Happypheasant",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "sha256": "f6785761872fcd31dab70f7d9fc19f41a33ef183e2993049edebecb102f6dd0b",
+    "manual_author_override": false,
+    "audio_listened": false
+  },
+  {
+    "asset_id": "ref-18",
+    "file": "LL-Q652_(ita)-LangPao-certo.wav",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q652_%28ita%29-LangPao-certo.wav",
+    "revision_url": "https://commons.wikimedia.org/w/index.php?title=File:LL-Q652_(ita)-LangPao-certo.wav&oldid=1123637177",
+    "metadata": {
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/LL-Q652_%28ita%29-LangPao-certo.wav",
+      "author": "Speaker: LangPao Recorder: LangPao",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "sha256": "dbacb09d9dd0cae686c02150d302188add4ade78ddb7b96f9c5f879c52e74b96",
+    "manual_author_override": false,
+    "audio_listened": false
+  },
+  {
+    "asset_id": "ref-19",
+    "file": "PR-open-mid_front_unrounded_vowel.ogg",
+    "source": "https://commons.wikimedia.org/wiki/File:PR-open-mid_front_unrounded_vowel.ogg",
+    "revision_url": "https://commons.wikimedia.org/w/index.php?title=File:PR-open-mid_front_unrounded_vowel.ogg&oldid=729153394",
+    "metadata": {
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/PR-open-mid_front_unrounded_vowel.ogg",
+      "author": "RoachPeter",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "sha256": "3a26190d7303aa78f64931212555640f2ae14f7e16d023c145be68f135b429e7",
+    "manual_author_override": false,
+    "audio_listened": false
+  },
+  {
+    "asset_id": "ref-20",
+    "file": "LL-Q652_(ita)-LangPao-etto.wav",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q652_%28ita%29-LangPao-etto.wav",
+    "revision_url": "https://commons.wikimedia.org/w/index.php?title=File:LL-Q652_(ita)-LangPao-etto.wav&oldid=812118996",
+    "metadata": {
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/LL-Q652_%28ita%29-LangPao-etto.wav",
+      "author": "Speaker: LangPao Recorder: LangPao",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "sha256": "6a594ab5f81e8b1d86651d198152c32e2d5f3e07aa5091f618f17483af470943",
+    "manual_author_override": false,
+    "audio_listened": false
+  },
+  {
+    "asset_id": "ref-21",
+    "file": "PR-open-mid_back_rounded_vowel.ogg",
+    "source": "https://commons.wikimedia.org/wiki/File:PR-open-mid_back_rounded_vowel.ogg",
+    "revision_url": "https://commons.wikimedia.org/w/index.php?title=File:PR-open-mid_back_rounded_vowel.ogg&oldid=896811473",
+    "metadata": {
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/PR-open-mid_back_rounded_vowel.ogg",
+      "author": "RoachPeter",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "sha256": "653927597b4084f8fc2a77f53e7e8f594b33e56f10aaadc22b84af591832b55a",
+    "manual_author_override": false,
+    "audio_listened": false
+  },
+  {
+    "asset_id": "ref-22",
+    "file": "LL-Q652_(ita)-Happypheasant-otto.wav",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q652_%28ita%29-Happypheasant-otto.wav",
+    "revision_url": "https://commons.wikimedia.org/w/index.php?title=File:LL-Q652_(ita)-Happypheasant-otto.wav&oldid=1128983169",
+    "metadata": {
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/LL-Q652_%28ita%29-Happypheasant-otto.wav",
+      "author": "Speaker: Happypheasant Recorder: Happypheasant",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "sha256": "27533c8a47b01ef416389caf0c8a553b74938037ed456f437219c1c089cff661",
+    "manual_author_override": false,
+    "audio_listened": false
+  }
+]

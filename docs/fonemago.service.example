@@ -1,0 +1,21 @@
+[Unit]
+Description=FonemaGo Telegram pronunciation trainer
+StartLimitIntervalSec=300
+StartLimitBurst=10
+
+[Service]
+Type=simple
+# Replace YOUR_USER and both paths before installing this USER service.
+WorkingDirectory=/home/YOUR_USER/FonemaGo
+ExecStart=/home/YOUR_USER/FonemaGo/scripts/run.sh
+Restart=on-failure
+RestartSec=5
+TimeoutStopSec=30
+UMask=0077
+NoNewPrivileges=true
+PrivateTmp=true
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=default.target
